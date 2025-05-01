@@ -83,4 +83,4 @@ The dataset used is the **Wine Quality Dataset**, often found on Kaggle or UCI M
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/may-thu-870314309) or [GitHub](#) if you want to discuss the project or collaborate!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/may-thu-870314309) or [GitHub](https://github.com/Mvien13/wine-quality-analysis.git) if you want to discuss the project or collaborate!
